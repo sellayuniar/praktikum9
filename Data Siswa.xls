@@ -1,0 +1,117 @@
+<html>
+<head>
+</head>
+<body>
+	
+	 
+ 
+	<table border="1">
+		<tr>
+			<th>No</th>
+			<th>Jenis Pendaftaran</th>
+			<th>tanggal masuk</th>
+			<th>NIS</th>
+			<th>Nomor Peserta </th>
+			<th>Pernah Paud </th>
+			<th>Pernah TK </th>
+			<th>No Seri SKHUN </th>
+			<th>No Seri Ijazah </th>
+			<th>Hobi </th>
+			<th>Cita-Cita </th>
+			<th>nama lengkap </th>
+			<th>Jenis Kelamin </th>
+			<th>NISN </th>
+			<th>NIK </th>
+			<th>Tempat Lahir </th>
+			<th>Tanngal Lahir </th>
+			<th>Agama </th>
+			<th>Berkebutuhan Khusus </th>
+			<th>Alamat </th>
+			<th>RT </th>
+			<th>RT </th>
+			<th>Nama Dusun </th>
+			<th>Nama Kelurahan </th>
+			<th>Kecamatan </th>
+			<th>Kodepos </th>
+			<th>Tempat Tinggal </th>
+			<th>Modal Transportasi </th>
+			<th>Nomor Hp </th>
+			<th>Nomor Telepon </th>
+			<th>Email Pribadi </th>
+			<th>Penerima KPS </th>
+			<th>Kewarganegaraan </th>
+		</tr>
+		
+				<tr>
+			<td>1</td>
+			<td>1</td>
+			<td>2020-11-06</td>
+			<td>1234567891</td>
+			<td>1234567891</td>
+			<td>1</td>
+			<td>1</td>
+			<td>1234567891</td>
+			<td>1234567891</td>
+			<td>1</td>
+			<td>1</td>
+			<td>Sella Yuniar</td>
+			<td>2</td>
+			<td>1234567891</td>
+			<td>1234567891</td>
+			<td>Blitar</td>
+			<td>2001-01-19</td>
+			<td>1</td>
+			<td>1</td>
+			<td>Jl. Sosial</td>
+			<td>24</td>
+			<td>11</td>
+			<td>Sepinggan</td>
+			<td>Sepinggan</td>
+			<td>Sepinggan</td>
+			<td>76115</td>
+			<td>1</td>
+			<td>1</td>
+			<td>895095480</td>
+			<td>895095480</td>
+			<td>synrr212@gmail.com</td>
+			<td>1</td>
+			<td>1</td>
+		</tr>
+				<tr>
+			<td>2</td>
+			<td>1</td>
+			<td>2020-11-12</td>
+			<td>1234567891</td>
+			<td>0</td>
+			<td>1</td>
+			<td>1</td>
+			<td>0</td>
+			<td>1234567891</td>
+			<td>A</td>
+			<td>A</td>
+			<td>Nesa Mey</td>
+			<td>2</td>
+			<td>1234567891</td>
+			<td>1234567891</td>
+			<td>blitar</td>
+			<td>2001-01-01</td>
+			<td>1</td>
+			<td>1</td>
+			<td>Jalan Sosial II </td>
+			<td>1</td>
+			<td>1</td>
+			<td>sepinggan</td>
+			<td>sepinggan</td>
+			<td>sepinggan</td>
+			<td>76115</td>
+			<td>1</td>
+			<td>2</td>
+			<td>1234567891</td>
+			<td>1234567891</td>
+			<td>synrr212@gmail.com</td>
+			<td>2</td>
+			<td>1</td>
+		</tr>
+			</table>
+</body>
+</html>
